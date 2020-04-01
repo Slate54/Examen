@@ -1,0 +1,195 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #515252;
+}
+header{
+	background-color: #fff;
+	padding: 10px 0;
+}
+
+#hero{
+	background-image: url(../img/bg-hero.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+	padding: 10% 0;
+	color: #fff;
+}
+#hero h1 {
+	color: #fff;
+	font-size: 55px;
+	font-weight: 700;
+	margin-top: 5%;
+}
+#hero h2 {
+	color: #72b529;
+	font-size: 55px;
+	font-weight: 700;	
+}
+#hero p{
+	color: #fff;
+	font-size: 18px
+}
+
+.bg-verde{
+    background-color: #323232;
+}
+.bg-lima{
+    background-color: #7dc855;
+}
+.bg-verde-oscuro{
+    background-color: #72b529;
+}
+.btn-verde{
+	background-color: #72b529;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	border: 0;
+	padding: 10px 40px;
+	font-weight: 300;
+	border-radius: 25px;
+}
+.btn-verde:hover{
+	background-color: #000;
+	color: #fff;
+}
+.btn-transparente{
+	background-color: transparent;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 10px 40px;
+	border: thin solid;
+	font-weight: 300;
+	border-radius: 25px;
+	
+}
+.btn-transparente:hover{
+	background-color: #72b529;
+	color: #fff;
+}
+
+
+#columnas article{
+    padding: 60px 20px;
+    color: #fff;
+    text-align: center;
+}
+#columnas .btn-light{
+    background-color: transparent;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 5px 30px;
+    text-transform: uppercase;
+}
+#columnas .btn-light:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+footer{
+	background-color: #3d3f3e;
+	color: #fff;
+	text-align: center;
+	padding: 15px 0;
+}
+
+#help h1{
+	color: #222;
+	text-align: center;
+	margin: 80px 150px 50px;
+}
+
+#help h1 span{
+	color: #72b529;
+	
+}
+
+#help h2{
+	font-size: 18px;
+	margin: 25px;
+	font-weight: 100
+}
+
+#help p{
+	margin: 25px
+}
+
+#texto {
+	margin: 75px 0 0;
+}
+
+#results {
+	margin: 60px 20px;
+}
+
+#results h1 {
+	color: #222;
+	padding: 25px 25px;
+}
+
+#results p{
+	padding: 20px 20px 0
+}
+
+#results .btn-light{
+	color: #fff;
+	background-color: #72b529;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 100;
+	border-radius: 15px;
+	padding: 6px 25px
+	
+}
+
+#results .btn-light:hover {
+	color: #222;
+	background-color: #fff;
+}
+
+#branding{
+	margin: 50px 0 0;
+	padding: 0px;
+}
+
+#branding h2{
+	font-size: 16px;
+	font-weight: 100;
+	padding: 6px 25px
+}
+
+#branding p{
+	padding: 2px 25px
+}
+
+#clients {
+	background-color:  #f7f7f7;
+	text-align: center;
+}
+
+#clients img{
+	margin: 45px;
+	padding: 10px;
+}
+
+#testimonial {
+	background-image: url("../../../pizza/img/bg-testi.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+	padding: 20% 0;
+	align-content: center;
+}
+
+#testimonial p{
+	color: #fff;
+	font-size: 20px;
+	padding: 60px;
+}
+
+#testimonial p span{
+	font-size: 12px;
+}
